@@ -12,3 +12,7 @@ In general these notebooks rely on the following software and libraries:
 - Scipy, particularly scipy.optimize for fitting curves to mathematical models
 
 I will attempt to add resources for installing these and setting up python environments as I add to this repository
+
+
+## Who am I?
+My name is Aidan Estelle, at the time of writing a Postdoctoral researcher in the Elisar Barbar lab at Oregon State University. My work combines computational and experimental biophysics with a focus on NMR spectroscopy, protein-protein interactions, and Bayesian statistical analysis.
