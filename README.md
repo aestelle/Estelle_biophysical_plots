@@ -15,4 +15,4 @@ I will attempt to add resources for installing these and setting up python envir
 
 
 ## Who am I?
-My name is Aidan Estelle, at the time of writing a Postdoctoral researcher in the Elisar Barbar lab at Oregon State University. My work combines computational and experimental biophysics with a focus on NMR spectroscopy, protein-protein interactions, and Bayesian statistical analysis.
+My name is Aidan Estelle, at the time of writing I am a Postdoctoral researcher in the Elisar Barbar lab at Oregon State University. My work combines computational and experimental biophysics with a focus on NMR spectroscopy, protein-protein interactions, and Bayesian statistical analysis.
