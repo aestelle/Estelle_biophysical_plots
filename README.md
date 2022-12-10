@@ -9,7 +9,7 @@ In general these notebooks rely on the following software and libraries:
 - Python 3.4+
 - Jupyter Notebook or Lab
 - Matplotlib and Pyplot
-- Scipy, particularly scipy.optimize for fitting curves to mathematical models
+- Scipy, particularly scipy.optimize for fitting data to mathematical models
 
 I will attempt to add resources for installing these and setting up python environments as I add to this repository
 
