@@ -7,7 +7,7 @@ This is a public repository of example notebooks I've prepared for members of th
 ## What do I need to use this?
 In general these notebooks rely on the following software and libraries:
 - Python 3.4+
-- Jupyter Notebook or Lab
+- Jupyter Notebook or Lab (recommended although all code will run in python scripts as well)
 - Matplotlib and Pyplot
 - Scipy, particularly scipy.optimize for fitting data to mathematical models
 
